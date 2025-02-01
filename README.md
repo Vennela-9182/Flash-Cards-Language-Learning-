@@ -1,1 +1,1 @@
-# Flash-Cards-Language-Learning-
+This project is a flashcard application built using Tkinter, designed to support effective learning. Each flashcard presents a question on the front, and after a short delay, it flips to reveal the correct answer on the back. The tool is ideal for language learning or other educational purposes
